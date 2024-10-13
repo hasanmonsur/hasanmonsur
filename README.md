@@ -5,7 +5,7 @@
 <h1>
   <img src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/hi-hasan.png" alt="Waving Hand Emoji" width="30px"/> 
   Hi, This is <a href="https://mdhasanmonsur.blogspot.com/"><img src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/mdhasanmonsur.png" alt="Daniel's GitHub Avatar" width="60px"/> Hasan </a>!
-  <img align="right" src="https://komarev.com/ghpvc/?username=hasanmonsur" alt="GitHub profile views counter">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hasanmonsur&show_icons=true&theme=radical" alt="GitHub profile views counter">
 </h1>
 
 <div>
