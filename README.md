@@ -9,6 +9,8 @@
 
 <div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hasanmonsur&show_icons=true&theme=radical" alt="GitHub profile views counter">
+</div>
+<div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
