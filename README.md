@@ -12,7 +12,7 @@
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
-### <div><img src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/Rocket-Hasan.png" width="30px" align="center" alt="Rocket Emoji"/>What You Think !, Mind It, World Faster Then You ...</div> 
+### <div><img src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/Rocket-Hasan.png" width="30px" align="center" alt="Rocket Emoji"/>What do You Think ? Mind It, World is Faster Then Your Thinking ...</div> 
 
 
 <ul>
