@@ -7,14 +7,11 @@
   Hi, This is <a href="https://mdhasanmonsur.blogspot.com/"><img src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/mdhasanmonsur.png" alt="Daniel's GitHub Avatar" width="60px"/> Hasan </a>!  
 </h1>
 
-<div>
- <div class="row">
+ <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=hasanmonsur&show_icons=true&theme=radical" width="300px" alt="GitHub profile views counter">
- </div>
- <div class="row">
+  <br/>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
  </div>
-</div>
 
 ### <div><img src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/Rocket-Hasan.png" width="30px" align="center" alt="Rocket Emoji"/>What do You Think ? Mind It, World is Faster Then Your Thinking ...</div> 
 
